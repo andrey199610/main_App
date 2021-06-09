@@ -1,0 +1,24 @@
+.wrapper_jobcard {
+  border-bottom: 1px solid #343a40;
+  max-width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+.jobcard_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+.jobcard_data {
+  margin-right: 20px;
+  font-size: 14px;
+  letter-spacing: -1px;
+  font-weight: 400;
+}
+.jobcard_companyName {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.jobcard_type {
+}

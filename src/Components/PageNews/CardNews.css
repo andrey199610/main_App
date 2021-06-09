@@ -1,0 +1,33 @@
+.card {
+  margin-bottom: 30px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card_img {
+  max-height: 430px;
+  width: 100%;
+}
+.card_body {
+  width: 96%;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.card_text {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.card_data {
+  font-size: 14px;
+  font-weight: bold;
+}
+.card_footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}

@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 80px;
+}
+.signout {
+  margin: auto;
+  display: block;
+  position: relative;
+  margin-top: 20px;
+}
+.photoURL {
+  display: flex;
+  justify-content: center;
+}
